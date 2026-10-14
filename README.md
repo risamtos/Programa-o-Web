@@ -8,3 +8,4 @@ Programação Web.
 - HTML
 - Git
 - GitHub
+HTML <img>
